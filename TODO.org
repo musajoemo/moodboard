@@ -1,0 +1,11 @@
+* Raw ideas
+** There should be table with users and weekdays
+** Each user can set his mood in the table
+** Mood will be a text smile
+** There should be key of moods.
+** There should be editable history of moods
+** There should be user profiles
+** There should be weather icon near the user
+** There should be authentication/authorization
+* Stuff to do:
+* Done

@@ -1,3 +1,4 @@
+# For Ruby service files
 *.gem
 *.rbc
 .bundle
@@ -16,3 +17,11 @@ tmp
 .yardoc
 _yardoc
 doc/
+
+# For emacs:
+*~
+\#*
+.\#*
+
+# For vim:
+*.swp
