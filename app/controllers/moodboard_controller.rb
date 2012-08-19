@@ -1,0 +1,2 @@
+class MoodboardController < ApplicationController
+end
