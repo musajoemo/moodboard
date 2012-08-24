@@ -1,5 +1,3 @@
-<h1>Moodboard</h1>
-
 <table border="1">
 <tr>
 <th>Person</th>
@@ -11,4 +9,16 @@
 <th>Saturday</th>
 <th>Sunday</th>
 </tr>
+<%- @persons.each do |person| %>
+<tr>
+<td><%= person %></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<%- end %>
 </table> 
