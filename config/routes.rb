@@ -1,7 +1,7 @@
 Moodboard::Application.routes.draw do
 
-  resources :moodboard
-  
+  resources :moods
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
