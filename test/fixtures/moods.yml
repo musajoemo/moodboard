@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  mood: MyString
+  date: 2012-09-12 21:54:10
+  person_id: 1
+
+two:
+  mood: MyString
+  date: 2012-09-12 21:54:10
+  person_id: 1
