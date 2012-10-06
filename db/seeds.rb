@@ -5,3 +5,14 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+[
+  {:nickname => "KL"},
+  {:nickname => "SNS"},
+  {:nickname => "MP"},
+  {:nickname => "SB"},
+  {:nickname => "SA"},
+  {:nickname => "YT"},
+  {:nickname => "JB"}
+].each do |attributes|
+  Person.find_or_create_by_nickname(attributes)
+end
