@@ -7,5 +7,6 @@
 ** There should be user profiles
 ** There should be weather icon near the user
 ** There should be authentication/authorization
+** When user click on day field in moodboard site should dim and then text field/window with smiles should appear.
 * Stuff to do:
 * Done
